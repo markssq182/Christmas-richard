@@ -143,5 +143,25 @@ that you matter.
   setInterval(createSnow, 200);
 </script>
 
-</body>
+</body><!-- QR CODE CHRISTMAS -->
+<div style="margin:50px auto; text-align:center;">
+  <h2 style="color:#ffeb3b;">🎁 Scan This Christmas Surprise 🎄</h2>
+  <p style="font-size:18px;">Untuk Richard ❤️</p>
+
+  <img
+    src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://markssq182.github.io/Christmas-richard/"
+    alt="QR Christmas Richard"
+    style="
+      background:white;
+      padding:15px;
+      border-radius:25px;
+      box-shadow:0 0 20px rgba(0,0,0,0.5);
+    "
+  >
+
+  <p style="margin-top:15px; font-style:italic;">
+    Scan me and read our Christmas story ✨
+  </p>
+</div>
+
 </html>
